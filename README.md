@@ -11,3 +11,4 @@ remote main add a line
 
 
 remote main add 2 line(diverge test)
+i add a line in remote main
